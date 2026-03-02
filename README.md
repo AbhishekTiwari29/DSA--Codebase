@@ -1,4 +1,4 @@
-💻🧠 DSA-Codebase
+##💻🧠 DSA-Codebase
 
 A structured and evolving repository for mastering Data Structures & Algorithms using Java/Python. This repo focuses on strengthening core problem-solving skills through clean implementations, topic-wise practice, algorithmic patterns, and interview-focused solutions 🚀💡
 
