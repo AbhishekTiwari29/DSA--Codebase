@@ -1,8 +1,8 @@
-#💻🧠 DSA-Codebase
+# 💻🧠 DSA-Codebase
 
 A structured and evolving repository for mastering Data Structures & Algorithms using Java/Python. This repo focuses on strengthening core problem-solving skills through clean implementations, topic-wise practice, algorithmic patterns, and interview-focused solutions 🚀💡
 
-📌 What You’ll Find Here
+## 📌 What You’ll Find Here
 📂 Data Structures
 
 📘 Arrays & Strings
@@ -12,7 +12,7 @@ A structured and evolving repository for mastering Data Structures & Algorithms 
 🕸️ Graphs
 🗂️ Hashing & Heaps
 
-⚡ Algorithms
+##⚡ Algorithms
 
 🔁 Recursion & Backtracking
 🧩 Searching & Sorting
@@ -21,21 +21,21 @@ A structured and evolving repository for mastering Data Structures & Algorithms 
 🪟 Sliding Window & Two Pointer Techniques
 📊 Prefix Sum & Binary Search on Answer
 
-🛠️ Practice & Implementation
+## 🛠️ Practice & Implementation
 
 💻 Topic-wise Coding Problems
 🧪 Pattern-Based Problem Solving
 🚀 Optimized & Clean Code Solutions
 🎯 Interview-Oriented Question Sets
 
-🧑‍💻 Tech Stack
+## 🧑‍💻 Tech Stack
 
-☕ Java / 🐍 Python
+☕ Java 
 📂 Structured Folder Hierarchy
 🧠 Algorithmic Patterns & Approaches
 🧪 Clean, Readable & Optimized Code
 
-🎯 Goals of This Repository
+## 🎯 Goals of This Repository
 
 ✔ Build Strong DSA Foundations
 ✔ Understand Patterns Behind Problems
