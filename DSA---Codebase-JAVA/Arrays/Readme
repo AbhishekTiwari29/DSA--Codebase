@@ -1,4 +1,4 @@
-# 📦 DSA - Arrays
+#📦 DSA - Arrays
 
 This folder is part of my **Data Structures & Algorithms (DSA)** journey.
 
@@ -6,7 +6,7 @@ It contains all concepts, problems, and implementations related to **Arrays**.
 
 ---
 
-## 📚 Topics Covered
+##📚 Topics Covered
 
 * Array Basics
 * Traversal Techniques
@@ -19,38 +19,7 @@ It contains all concepts, problems, and implementations related to **Arrays**.
 
 ---
 
-## 📂 Folder Structure
+##💻 Languages Used
 
-DSA/
-└── arrays/
-├── basics/
-├── searching/
-├── sorting/
-├── advanced/
-
----
-
-## 🎯 Goal
-
-To build a strong foundation in arrays for **coding interviews & problem solving**.
-
----
-
-## 💻 Languages Used
-
-* Python 🐍
 * Java ☕
-* C++
-
 ---
-
-## 🚀 Progress
-
-Consistently solving problems from platforms like:
-
-* LeetCode
-* HackerRank
-
----
-
-⭐ Keep Learning | Keep Building
